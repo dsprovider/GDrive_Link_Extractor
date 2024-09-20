@@ -2,7 +2,7 @@
 
 GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesses a specific folder by its folder ID, and fetches all file links (file IDs) within that folder. It leverages the Google Drive API and uses OAuth authentication to securely access the files.
 
-✨ Features
+✨ Features ⚫⚫⚫⚫⚫⚫⚫⚫
 
 🔒 OAuth Authentication: Securely access your Google Drive using OAuth 2.0.
 
@@ -11,7 +11,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 ⚡ Efficient and Fast: Quickly access large folders and pull metadata with ease.
 
 
-🛠️ Setup & Installation
+🛠️ Setup & Installation ⚫⚫⚫⚫⚫⚫⚫⚫
 
 1. Create a Google Cloud Project
 
@@ -42,7 +42,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
    * Download the credentials.json file and place it in your project directory 📂.
   
 
-📦 Installation
+📦 Installation ⚫⚫⚫⚫⚫⚫⚫⚫
 
 1. Clone the repository:
 
@@ -59,7 +59,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 5. Add your credentials.json file to the root directory.
 
 
-🚀 Usage
+🚀 Usage ⚫⚫⚫⚫⚫⚫⚫⚫
 
 1. Run the script:
    
@@ -77,11 +77,11 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
    
    https://drive.google.com/file/d/6ghi7jkl890/view
 
-🔐 Authentication Details
+🔐 Authentication Details ⚫⚫⚫⚫⚫⚫⚫⚫
 
 This project uses OAuth 2.0 to access Google Drive. The first time you run the script, you'll be prompted to authenticate and allow the application to access your Drive. A token will be stored locally to allow future access without re-authentication.
 
-📝 License
+📝 License ⚫⚫⚫⚫⚫⚫⚫⚫
 
 This project is licensed under the MIT License.
 
