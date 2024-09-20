@@ -46,25 +46,44 @@ GDriveFileLinkFetcher is a Python tool that connects to Google Drive 🌐, acces
 
 1. Clone the repository:
 
-
+   git clone https://github.com/yourusername/GDrive_Link_Extractor.git
 
 2. Navigate to the project directory:
 
+   cd GDrive_Link_Extractor
 
 3. Install dependencies:
-   
+
+   pip install -r requirements.txt
 
 5. Add your credentials.json file to the root directory.
 
 
+🚀 Usage
 
+1. Run the script:
+   
+2. Authenticate using your Google account when prompted.
+   
+3. Indicate the folder ID of the Google Drive folder you wish to retrieve file links from.
+   
+4. The script will output the file links (file IDs) from the folder 📄 to a CSV file.
 
+   Example:
+
+   File links:
+   
+   https://drive.google.com/file/d/1abc2def345/view
+   
+   https://drive.google.com/file/d/6ghi7jkl890/view
 
 🔐 Authentication Details
 
 This project uses OAuth 2.0 to access Google Drive. The first time you run the script, you'll be prompted to authenticate and allow the application to access your Drive. A token will be stored locally to allow future access without re-authentication.
 
+📝 License
 
+This project is licensed under the MIT License.
 
 
 
