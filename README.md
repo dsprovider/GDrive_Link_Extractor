@@ -61,7 +61,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 
 🚀 Usage ✦
 
-1. Run the script:
+1. Run the script
    
 2. Authenticate using your Google account when prompted.
    
@@ -70,8 +70,6 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 4. The script will output the file links (file IDs) from the folder 📄 to a CSV file.
 
    Example:
-
-   File links:
    
    https://drive.google.com/file/d/1abc2def345/view
    
