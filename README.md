@@ -1,6 +1,6 @@
-🚀 GDriveFileLinkFetcher
+🚀 GDriveLinkExtractor
 
-GDriveFileLinkFetcher is a Python tool that connects to Google Drive 🌐, accesses a specific folder by its folder ID, and fetches all file links (file IDs) within that folder. It leverages the Google Drive API and uses OAuth authentication to securely access the files.
+GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesses a specific folder by its folder ID, and fetches all file links (file IDs) within that folder. It leverages the Google Drive API and uses OAuth authentication to securely access the files.
 
 ✨ Features
 
