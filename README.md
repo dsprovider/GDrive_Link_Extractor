@@ -46,7 +46,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/GDrive_Link_Extractor.git
+   git clone https://github.com/dsprovider/GDrive_Link_Extractor.git
 
 2. Navigate to the project directory:
 
