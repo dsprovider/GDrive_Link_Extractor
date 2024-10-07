@@ -75,11 +75,11 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
    
    https://drive.google.com/file/d/6ghi7jkl890/view
 
-🔐 Authentication Details ✦
+# 🔐 Authentication Details ✦
 
 This project uses OAuth 2.0 to access Google Drive. The first time you run the script, you'll be prompted to authenticate and allow the application to access your Drive. A token will be stored locally to allow future access without re-authentication.
 
-📝 License ✦
+# 📝 License ✦
 
 This project is licensed under the MIT License.
 
