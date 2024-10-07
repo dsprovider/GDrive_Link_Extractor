@@ -11,7 +11,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 ⚡ Efficient and Fast: Quickly access large folders and pull metadata with ease.
 
 
-🛠️ Setup & Installation ✦
+# 🛠️ Setup & Installation ✦
 
 1. Create a Google Cloud Project
 
@@ -42,7 +42,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
    * Download the credentials.json file and place it in your project directory 📂.
   
 
-📦 Installation ✦
+# 📦 Installation ✦
 
 1. Clone the repository:
 
@@ -59,7 +59,7 @@ GDriveLinkExtractor is a Python tool that connects to Google Drive 🌐, accesse
 5. Add your credentials.json file to the root directory.
 
 
-🚀 Usage ✦
+# 🚀 Usage ✦
 
 1. Run the script
    
